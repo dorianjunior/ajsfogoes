@@ -1305,6 +1305,7 @@ section {
 #footer {
   background: url("../img/footer-bg.jpg") top center no-repeat;
   color: #fff;
+  background-size: cover;
   font-size: 14px;
   position: relative;
 }
