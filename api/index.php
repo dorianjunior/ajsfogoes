@@ -5,8 +5,8 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>AJS Fogões | Conserto e Manutenção de Fogões e Cooktops</title>
-  <meta content="Conserto e manutenção em toda linha de fogões a gás (industriais e residenciais). Há 10 anos no ramo, com honestidade e preço justo. Atendimento em Florianópolis. Serviço com garantia." name="description">
+  <title>AJS Fogões | Instalação e Manutenção de Fogões e Cooktops</title>
+  <meta content="Instalação e manutenção em toda linha de fogões a gás (industriais e residenciais). Há 10 anos no ramo, com honestidade e preço justo. Atendimento em Florianópolis. Serviço com garantia." name="description">
   <meta content="AJS Fogões Consertos Instalações Assistência Técnica Autorizada Brastemp Dinoxx Electrolux Fischer" name="keywords">
 
   <!-- Favicons -->
