@@ -8,6 +8,15 @@
   "use strict";
 
   /**
+   * Pelicula / Tooltip
+   */
+
+  $(document).ready(function () {
+    $('[data-toggle="tooltip"]').tooltip();
+    $("#pelicula").fadeOut();
+  });
+  
+  /**
    * Easy selector helper function
    */
   const select = (el, all = false) => {
